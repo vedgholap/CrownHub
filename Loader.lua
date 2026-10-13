@@ -1,6 +1,0 @@
--- NOTE: Loader.lua moved to Script/Loader.lua
--- This file was left at the repository root by accident. Please delete this file from the root
--- to avoid duplicate loaders. The active loader is now located at:
--- Script/Loader.lua
---
--- If you need to restore the original loader, use the script at Script/Loader.lua.
